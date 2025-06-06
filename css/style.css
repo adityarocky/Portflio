@@ -22,6 +22,14 @@
     padding: 8px 20px !important;
 }
 
+.button{
+    display: inline;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+}
 .nav-custom-link {
     font-weight: bold;
     color: #000000 !important;
